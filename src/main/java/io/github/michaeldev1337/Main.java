@@ -8,7 +8,7 @@ public class Main {
         // Show the framework (this will display the window with the text and image)
         frameWork.showFrameWork();
 
-        // Your main application code starts here after the splash screen closes
+        // just some random text idk lol
         System.out.println("Main application is starting...");
     }
 }
